@@ -1,13 +1,13 @@
-.btn.n2,.btn.n1{
+.btn2,.btn1{
     font-size: 28px;
     font-family: 'Helvetica', 'Times New Roman', sans-serif ;
 }
 
-.btn.n2{
+.btn2{
     background-color: yellow;
 }
 
-.btn.n1{
+.btn1{
     color: white;
     background-color: black;
 }
