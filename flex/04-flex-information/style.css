@@ -34,18 +34,11 @@ img {
   margin-bottom: 32px;
 }
 
-div.images{
-display: flex;
 
-justify-content: space-around;
-align-items: center;
-gap:52px
 
-}
-
-div.texts{
+.container{
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
   align-items: center;
   gap: 52px;
 
